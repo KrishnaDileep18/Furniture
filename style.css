@@ -1,0 +1,28 @@
+
+        *{
+            font-family: "Noto Sans", sans-serif;
+            list-style: none;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #img1{
+          margin-left: 150px;
+        }
+        h1{
+          font-family: "Rancho", cursive;
+          margin: 60px;
+        }
+        .container{
+          width: 100%;
+          height: 300px;
+          align-items: center;
+          /* background-image: url(https://cityfurnish.com/blog/wp-content/uploads/2023/04/stylish-scandinavian-living-room-with-design-mint-sofa-furnitures-mock-up-poster-map-plants-eleg-min.jpg );
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center; */
+        }
+
+        .row{
+          display: flex;
+        }
